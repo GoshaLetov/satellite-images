@@ -1,0 +1,6 @@
+[submodule "classification"]
+	path = classification
+	url = https://github.com/GoshaLetov/satellite-images-classification.git
+[submodule "service"]
+	path = service
+	url = https://github.com/GoshaLetov/satellite-images-service.git
